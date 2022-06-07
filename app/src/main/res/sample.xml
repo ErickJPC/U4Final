@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<countries>
+    <country id="1">
+        <name>Mexico</name>
+        <capital>Mexico City</capital>
+    </country>
+    <country id ="2">
+        <name>USA</name>
+        <capital>Washington DC</capital>
+    </country>
+</countries>
